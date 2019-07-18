@@ -1,0 +1,15 @@
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter.csprojAssemblyReference.cache
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\MainWindow.g.cs
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\App.g.cs
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter_MarkupCompile.cache
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter_MarkupCompile.lref
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\bin\Debug\NumToWordConverter.exe.config
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\bin\Debug\NumToWordConverter.exe
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\bin\Debug\NumToWordConverter.pdb
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\MainWindow.baml
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter.g.resources
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter.Properties.Resources.resources
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter.csproj.GenerateResource.cache
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter.csproj.CoreCompileInputs.cache
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter.exe
+C:\Users\sujith\source\repos\NumToWordConverter\NumToWordConverter\obj\Debug\NumToWordConverter.pdb
