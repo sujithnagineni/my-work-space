@@ -4,7 +4,7 @@ using System.Windows;
 namespace NumToWordConverter
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
